@@ -1,15 +1,15 @@
-[submodule "bundle/dracula"]
+[submodule "dracula"]
 	path = bundle/dracula
 	url = https://github.com/dracula/vim.git
-[submodule "bundle/vim-startify"]
+[submodule "vim-startify"]
 	path = bundle/vim-startify
 	url = https://github.com/mhinz/vim-startify
-[submodule "bundle/coc.nvim"]
+[submodule "coc.nvim"]
 	path = bundle/coc.nvim
 	url = https://github.com/neoclide/coc.nvim
-[submodule "bundle/vim-markdown"]
+[submodule "vim-markdown"]
 	path = bundle/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown
-[submodule "bundle/vim-airline"]
+[submodule "vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline
