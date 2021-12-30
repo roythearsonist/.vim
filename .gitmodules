@@ -19,3 +19,6 @@
 [submodule "vim-sass-colors"]
 	path = bundle/vim-sass-colors
 	url = https://github.com/shmargum/vim-sass-colors
+[submodule "emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim
