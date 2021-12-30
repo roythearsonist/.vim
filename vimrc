@@ -10,7 +10,7 @@ let &t_EI .= "\<Esc>[2 q"
 
 " Emmet
 let g:user_emmet_settings = {
-\  'variables': {'lang': 'ja'},
+\  'variables': {'lang': 'en-US'},
 \  'html': {
 \    'default_attributes': {
 \      'option': {'value': v:null},
