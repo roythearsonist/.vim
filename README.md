@@ -3,7 +3,7 @@
 Yeah, it's just that.
 
 ## Requirements
-Probably vim 8+. Don't use neovim as pathogen won't work.
+Vim 8+ is required for plugins. Neovim will not work and it will never be supported.
 
 # Installation
 Clone the repo as ~/.vim (unix) or ~/vimfiles (windows)
