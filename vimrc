@@ -1,7 +1,6 @@
-execute pathogen#infect()
-syntax on
-filetype plugin indent on
 set number
+packadd! dracula
+syntax enable
 colorscheme dracula
 
 " Neovim-like cursor

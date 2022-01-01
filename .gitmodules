@@ -22,3 +22,24 @@
 [submodule "editorconfig-vim"]
 	path = bundle/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/coc/start/coc.nvim"]
+	path = pack/coc/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule "pack/themes/start/dracula"]
+	path = pack/themes/start/dracula
+	url = https://github.com/dracula/vim
+[submodule "pack/emmet/start/emmet-vim"]
+	path = pack/emmet/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "pack/local/start/editorconfig-vim"]
+	path = pack/local/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/vim-airline/start/vim-airline"]
+	path = pack/vim-airline/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/vim-markdown/start/vim-markdown"]
+	path = pack/vim-markdown/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown
+[submodule "pack/vim-startify/start/vim-startify"]
+	path = pack/vim-startify/start/vim-startify
+	url = https://github.com/mhinz/vim-startify
