@@ -26,10 +26,10 @@ One requirement of coc.nvim is that you have nodejs and yarn installed. You can 
 After installing, go into the plugin directory and install using yarn.
 ```sh 
 # Unix-like
-cd ~/.vim/bundle/coc.nvim && yarn install
+cd ~/.vim/pack/coc/start/coc.nvim && yarn install
 
 # Windows
-cd ~/vimfiles/bundle/coc.nvim && yarn install
+cd ~/vimfiles/pack/coc/start/coc.nvim && yarn install
 ```
 
 That's it. If you feel this documentation is inadequate, please edit it. Have a nice day
